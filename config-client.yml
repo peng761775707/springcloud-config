@@ -5,7 +5,7 @@
 ---
 server:
   port: 6001
-content: "dev content 没有刷新"
+content: "dev content 刷新了"
 spring:
   profiles: dev #开发环境
   application:
